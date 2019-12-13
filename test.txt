@@ -1,3 +1,4 @@
 This Jacob Ochola
 I am introducing myself to using Git.
-I am really loving it.
+I am encountering really fascinating aspects of Git
+It really going to change my coding experience forever
